@@ -1,0 +1,28 @@
+h1{
+color:blue(36, 21, 122);
+
+}
+p{
+color:aqua(13, 66, 126);
+}
+button{
+color:blanchedalmond;
+background-color:blue (24, 89, 126);
+padding:10px 30px;
+font-size:18px;
+border-radius: 10px;
+border-color: rgb(117, 16, 16);
+}
+body{
+background-color: aliceblue;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+img{
+margin-bottom: 30px;
+}
+button:hover{
+background-color: rgb(126, 45, 45);
+border-color: rgb(44, 187, 187);
+}
