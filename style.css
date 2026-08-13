@@ -23,6 +23,13 @@ img{
 margin-bottom: 30px;
 }
 button:hover{
-background-color: rgb(126, 45, 45);
-border-color: rgb(44, 187, 187);
+background-color: #7e2d2d;
+border-color: #db892b;
 }
+img(
+margin-bottom:30px;
+width: 30%px;
+min-width: 300px;
+boeder-radius: 20px;
+box-shodow: 10px 10px 20px rgba(0,0,0.712);
+)
